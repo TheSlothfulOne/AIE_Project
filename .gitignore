@@ -1,0 +1,13 @@
+/AIE_Project/Binaries
+
+/AIE_Project/DerivedDataCache
+
+/AIE_Project/Intermediate
+
+/AIE_Project/Saved
+
+*.sln
+
+*.sdf
+
+*.suo
